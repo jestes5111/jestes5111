@@ -1,4 +1,6 @@
-### Hi there 👋
+# Jesse Estes 👻
+
+I'm an aspiring ML/AI engineer who just recently finished college. 
 
 <!--
 **jestes5111/jestes5111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
