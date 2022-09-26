@@ -24,7 +24,21 @@ In addition to those few things, I'm also seeking new employment opportunities a
 
 <br /><br /><br />
 
-## 📚 Important Projects to Me
+## Professional Interests
 
-- [Final Project for CS482, Machine Learning](https://github.com/jestes5111/CS482_FinalProject)
-- [League of Legends Draft Simulator (in progress)](https://github.com/jestes5111/LolDraftSimulator)
+**AI/ML**:
+
+Having taken both an Artificial Intelligence and Machine Learning, I became
+very interested in the potential of the technologies. I would like to apply it
+to other interests I have, such as esports, video games, or music.
+
+**Esports**:
+
+I follow competitive League of Legends for fun and would like to potentially
+turn it into a career. Specifically, I think scouting players using data could
+prove to be very useful and is something I am looking into.
+
+**Video Games**:
+
+Creating my own video game sounds like it could be fun. In my down time, I'm
+often playing video games - why not try my hand at it one day?
