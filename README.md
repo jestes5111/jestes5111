@@ -24,7 +24,7 @@ In addition to those few things, I'm also seeking new employment opportunities a
 
 <br /><br /><br />
 
-## Professional Interests
+## 💼 Professional Interests
 
 **AI/ML**:
 
