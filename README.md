@@ -1,13 +1,14 @@
-# Jesse Estes 👻
+# 👻 Jesse Estes 
 
 ## 🔎 About Me
 - 🎓 Kettering University '22 (BS Computer Science, Minor in Computer Engineering)
 - 🖥 Aspiring software development engineer (AI/ML)
 - 🤖 Former FIRST Robotics nerd ([@frc5517](https://github.com/frc5517), [@KetteringU-Ri3D](https://github.com/KetteringU-Ri3D))
-- ⌨ Keyboard enthusiast ([Code for my Iris](https://github.com/jestes5111/qmk_firmware))
+- ⌨ Keyboard enthusiast ([Code for my Iris](https://github.com/jestes5111/qmk_firmware/blob/master/keyboards/keebio/iris/keymaps/jestes5111))
 
 In addition to those few things, I'm also seeking new employment opportunities and projects to work on!
-<br /><br />
+
+<br />
 
 ## 🛠 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
@@ -20,25 +21,10 @@ In addition to those few things, I'm also seeking new employment opportunities a
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-<br /><br />
 
-## 📚 Projects
+<br /><br /><br />
+
+## 📚 Important Projects to Me
 
 - [Final Project for CS482, Machine Learning](https://github.com/jestes5111/CS482_FinalProject)
 - [League of Legends Draft Simulator (in progress)](https://github.com/jestes5111/LolDraftSimulator)
-
-
-<!--
-**jestes5111/jestes5111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
