@@ -28,9 +28,9 @@ In addition to those few things, I'm also seeking new employment opportunities a
 
 **AI/ML**:
 
-Having taken both an Artificial Intelligence and Machine Learning, I became
-very interested in the potential of the technologies. I would like to apply it
-to other interests I have, such as esports, video games, or music.
+After taking classes for both Artificial Intelligence and Machine Learning, I became
+very interested in the potential of the technologies, but know how harmful it can potentially be (and has been). 
+I'm interested in ethical uses of the technologies.
 
 **Esports**:
 
