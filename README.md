@@ -2,11 +2,11 @@
 
 ## 🔎 About Me
 - 🎓 Kettering University '22 (BS Computer Science, Minor in Computer Engineering)
-- 🖥 Aspiring software development engineer (AI/ML)
+- 🖥️ Process Engineer at Molex (November 2022 - present)
 - 🤖 Former FIRST Robotics nerd ([@frc5517](https://github.com/frc5517), [@KetteringU-Ri3D](https://github.com/KetteringU-Ri3D))
 - ⌨ Keyboard enthusiast ([Code for my Iris](https://github.com/jestes5111/qmk_firmware/blob/master/keyboards/keebio/iris/keymaps/jestes5111))
 
-In addition to those few things, I'm also seeking new employment opportunities and projects to work on!
+I'm also interested in projects of any scope/size!
 
 <br />
 
